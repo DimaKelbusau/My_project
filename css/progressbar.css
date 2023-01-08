@@ -1,0 +1,13 @@
+.progressbar {
+    height: 7px;
+    width: 100%;
+    background-color:rgb(234, 116, 6);
+    position: fixed;
+    z-index: 5;
+}
+
+.progressbar-line {
+    height: 7px;
+    width: 0;
+    background-color: #4caf50fc;
+}
